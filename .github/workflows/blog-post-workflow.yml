@@ -1,16 +1,16 @@
 name: Latest blog post workflow
-on: 
+on:
   schedule:
     - cron: '*/5 * * * *' # Runs every hour, on the hour
 permissions:
   contents: write # To write the generated contents to the readme
 jobs: 
-  update-readme-with-blog:  
-    name: Update this repo's README with latest blog posts  
-    runs-on: ubuntu-latest 
-    steps:  
-        - uses: actions/checkout@v2  
-        - uses: gautamkrishnar/blog-post-workflow@master  
-            with:  
-            max_post_count: "4"
-            feed_list: "https://wjlin0.com/rss.xml"
+  update-readme-with-blog: 
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps: 
+        - uses: actions/checkout@v2
+        - uses: gautamkrishnar/blog-post-workflow@master 
+            with:
+              max_post_count: "4"
+              feed_list: "https://wjlin0.com/rss.xml" 
