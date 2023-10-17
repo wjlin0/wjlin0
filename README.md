@@ -2,20 +2,28 @@
 <h1 align="center">Hi 👋, I'm wjlin0</h1> 
 <h3 align="center">Web Security enthusiast from china</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wjlin0&label=Profile%20views&color=0e75b6&style=flat" alt="wjlin0" /> <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=wjlin0&show_icons=true&theme=dark&locale=en" alt="wjlin0" /></p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wjlin0&label=Profile%20views&color=0e75b6&style=flat" alt="wjlin0" /> 
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wjlin0/pathScan/total?label=pathScan"> 
+
+</p>  
+
+<p>
+    <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=wjlin0&show_icons=true&theme=dark&locale=en" alt="wjlin0" /> 
+</p>
 
 
 - 🔭 I’m currently working on [knownsec](https://github.com/knownsec) 
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 This is my first popular project [pathScan](https://github.com/wjlin0/pathScan) 
+- 👨‍💻 This is my first popular project [pathScan](https://github.com/wjlin0/pathScan)  
 
 - 📝 I regularly write articles on [https://wjlin0.com](https://wjlin0.com)  
 
 - 📫 How to reach me **wjlgeren@163.com**
 
-<p></p>  
+
 
 ### Blogs posts
 
