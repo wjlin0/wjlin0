@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [wjlin0](https://github.com/wjlin0/) 
 
-- 📝 I regularly write articles on [https://wjlin0.com](https://wjlin0.com)
+- 📝 I regularly write articles on [https://wjlin0.com](https://wjlin0.com) 
 
 - 📫 How to reach me **wjlgeren@163.com**
 
@@ -20,11 +20,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/https://wjlin0.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wjlin0.com/rss.xml" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3> 
+<p align="left"> 
+<a href="https://wjlin0.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wjlin0.com/rss.xml" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
