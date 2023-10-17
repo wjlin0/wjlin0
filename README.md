@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wjlin0&label=Profile%20views&color=0e75b6&style=flat" alt="wjlin0" /> <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=wjlin0&show_icons=true&theme=dark&locale=en" alt="wjlin0" /></p> 
 
 
-- 🔭 I’m currently working on [knownsec](https://github.com/knownsec)
+- 🔭 I’m currently working on [knownsec](https://github.com/knownsec) 
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [wjlin0](https://github.com/wjlin0/) 
+- 👨‍💻 This is my first popular project [pathScan](https://github.com/wjlin0/pathScan) 
 
-- 📝 I regularly write articles on [https://wjlin0.com](https://wjlin0.com) 
+- 📝 I regularly write articles on [https://wjlin0.com](https://wjlin0.com)  
 
 - 📫 How to reach me **wjlgeren@163.com**
 
