@@ -3,8 +3,8 @@
 <h3 align="center">Web Security enthusiast from china</h3> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wjlin0&label=Profile%20views&color=0e75b6&style=flat" alt="wjlin0" /> 
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wjlin0/pathScan/total?label=pathScan"> 
+  <img src="https://komarev.com/ghpvc/?username=wjlin0&label=Profile%20views&color=0e75b6&style=flat" alt="wjlin0" />  
+  <img alt="GitHub tag (with filter)" src="https://img.shields.io/github/v/tag/wjlin0/pathScan?label=pathScan"> 
 
 </p>  
 
