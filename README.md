@@ -28,10 +28,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [knownsec内部ctf-2023-06-wp](http://wjlin0.com/archives/knownsecnei-bu-ctf-2023-06-wp)
 - [CC1利用链](http://wjlin0.com/archives/cc1-li-yong-lian)
 - [URLDNS验证链](http://wjlin0.com/archives/urldns-yan-zheng-lian)
 - [记fofa爬虫工具开发篇](http://wjlin0.com/archives/%E8%AE%B0fofa%E7%88%AC%E8%99%AB%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91%E7%AF%87)
-- [BS4-爬虫利器学习](http://wjlin0.com/archives/bs4-%E7%88%AC%E8%99%AB%E5%88%A9%E5%99%A8%E5%AD%A6%E4%B9%A0)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
