@@ -13,8 +13,6 @@
 </p>
 
 
-- 🔭 I’m currently working on [knownsec](https://github.com/knownsec) 
-
 - 🌱 I’m currently learning **Go**
 
 - 👨‍💻 This is my first popular project [pathScan](https://github.com/wjlin0/pathScan)  
