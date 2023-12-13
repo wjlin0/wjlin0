@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 /*12 * * *' # Runs every hour, on the hour
+    - cron: '0 */12 * * *' # Runs every hour, on the hour
 env:
   NODE_TLS_REJECT_UNAUTHORIZED: 0
 permissions:
