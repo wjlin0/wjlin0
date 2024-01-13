@@ -26,10 +26,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [fscan的免杀](https://wjlin0.com/archives/1705092744971)
+- [某大学的一次渗透测试](https://wjlin0.com/archives/1705068086952)
 - [knownsec内部ctf-2023-09-wp](https://wjlin0.com/archives/knownsecnei-bu-ctf-2023-09-wp)
 - [knownsec内部ctf-2023-06-wp](https://wjlin0.com/archives/knownsecnei-bu-ctf-2023-06-wp)
-- [CC1利用链](https://wjlin0.com/archives/cc1-li-yong-lian)
-- [URLDNS验证链](https://wjlin0.com/archives/urldns-yan-zheng-lian)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
