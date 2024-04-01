@@ -26,10 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [fscan的免杀](https://wjlin0.com/archives/1705092744971)
-- [某大学的一次渗透测试](https://wjlin0.com/archives/1705068086952)
-- [knownsec内部ctf-2023-09-wp](https://wjlin0.com/archives/knownsecnei-bu-ctf-2023-09-wp)
-- [knownsec内部ctf-2023-06-wp](https://wjlin0.com/archives/knownsecnei-bu-ctf-2023-06-wp)
+- [pathScan](https://www.wjlin0.com/archives/1711956620976)
+- [单云&amp;多云部署k3s](https://www.wjlin0.com/archives/dan-yun-duo-yun-bu-shu-k3s)
+- [FoFa爬虫API进一步研究](https://www.wjlin0.com/archives/1711690423198)
+- [fscan的免杀](https://www.wjlin0.com/archives/1705092744971)
+- [某大学的一次渗透测试](https://www.wjlin0.com/archives/1705068086952)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
