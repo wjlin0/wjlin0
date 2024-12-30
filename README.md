@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [豆豆](https://www.wjlin0.com/archives/1735486493296)
 - [PHP利用GNU C Iconv将文件读取变成RCE（CVE-2024-2961&rpar;](https://www.wjlin0.com/archives/1717722124710)
 - [pathScan](https://www.wjlin0.com/archives/1711956620976)
 - [单云&amp;多云部署k3s](https://www.wjlin0.com/archives/dan-yun-duo-yun-bu-shu-k3s)
 - [FoFa爬虫API进一步研究](https://www.wjlin0.com/archives/1711690423198)
-- [fscan的免杀](https://www.wjlin0.com/archives/1705092744971)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
