@@ -16,7 +16,7 @@ jobs:
         - uses: gautamkrishnar/blog-post-workflow@master
           with:
             max_post_count: "5"
-            feed_list: "https://www.wjlin0.com/rss.xml"
+            feed_list: "https://blog.wjlin0.com/rss.xml"
         - uses: gautamkrishnar/blog-post-workflow@master
           with:
             max_post_count: "5"
