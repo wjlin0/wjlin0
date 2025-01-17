@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [03.JS还原](https://blog.wjlin0.com/个人知识库/01.渗透测试/05.渗透手法/03.JS还原/index.html)
+- [更新日志](https://blog.wjlin0.com/更新日志.html)
 - [03.k3s安装](https://blog.wjlin0.com/个人知识库/01.渗透测试/04.内网渗透/03.k3s安装/index.html)
 - [07.基线检查](https://blog.wjlin0.com/个人知识库/01.渗透测试/07.基线检查/index.html)
 - [01.Traefik资源跨命名空间调用](https://blog.wjlin0.com/个人知识库/04.疑难杂症/01.k3s/01.Traefik资源跨命名空间调用/index.html)
-- [02.GitBook安装](https://blog.wjlin0.com/个人知识库/08.工具分享/02.GitBook安装/index.html)
-- [01.RAGFlow安装](https://blog.wjlin0.com/个人知识库/08.工具分享/01.RAGFlow安装/index.html)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
