@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [03.JS还原](https://blog.wjlin0.com/个人知识库/01.渗透测试/05.渗透手法/03.JS还原/index.html)
-- [更新日志](https://blog.wjlin0.com/更新日志.html)
-- [03.k3s安装](https://blog.wjlin0.com/个人知识库/01.渗透测试/04.内网渗透/03.k3s安装/index.html)
-- [07.基线检查](https://blog.wjlin0.com/个人知识库/01.渗透测试/07.基线检查/index.html)
-- [01.Traefik资源跨命名空间调用](https://blog.wjlin0.com/个人知识库/04.疑难杂症/01.k3s/01.Traefik资源跨命名空间调用/index.html)
+- [构建自己的AI-API中转服务器](https://www.wjlin0.com/archives/1756364255311)
+- [那些年我安装Halo遇到的问题](https://www.wjlin0.com/archives/1755833318540)
+- [CTF能源CTF大赛社会组](https://www.wjlin0.com/archives/1744955537798)
+- [骑某 CMS v3.34.0 存在反序列化漏洞](https://www.wjlin0.com/archives/1740990910475)
+- [利用 AST 技术还原 JavaScript 混淆代码](https://www.wjlin0.com/archives/1737343542986)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
