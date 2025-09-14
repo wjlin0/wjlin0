@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [浪浪山小妖怪：于平凡中拥抱真实的自己](https://www.wjlin0.com/archives/1757301620457)
-- [我让AI来帮我查备案信息](https://www.wjlin0.com/archives/1757051750992)
-- [构建自己的AI-API中转服务器](https://www.wjlin0.com/archives/1756364255311)
-- [那些年我安装Halo遇到的问题](https://www.wjlin0.com/archives/1755833318540)
-- [CTF能源CTF大赛社会组](https://www.wjlin0.com/archives/1744955537798)
+- [03.JS还原](https://blog.wjlin0.com/个人知识库/01.渗透测试/05.渗透手法/03.JS还原/index.html)
+- [更新日志](https://blog.wjlin0.com/更新日志.html)
+- [03.k3s安装](https://blog.wjlin0.com/个人知识库/01.渗透测试/04.内网渗透/03.k3s安装/index.html)
+- [07.基线检查](https://blog.wjlin0.com/个人知识库/01.渗透测试/07.基线检查/index.html)
+- [01.Traefik资源跨命名空间调用](https://blog.wjlin0.com/个人知识库/04.疑难杂症/01.k3s/01.Traefik资源跨命名空间调用/index.html)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
