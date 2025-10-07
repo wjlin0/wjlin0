@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [03.JS还原](https://blog.wjlin0.com/个人知识库/01.渗透测试/05.渗透手法/03.JS还原/index.html)
-- [更新日志](https://blog.wjlin0.com/更新日志.html)
-- [03.k3s安装](https://blog.wjlin0.com/个人知识库/01.渗透测试/04.内网渗透/03.k3s安装/index.html)
-- [07.基线检查](https://blog.wjlin0.com/个人知识库/01.渗透测试/07.基线检查/index.html)
-- [01.Traefik资源跨命名空间调用](https://blog.wjlin0.com/个人知识库/04.疑难杂症/01.k3s/01.Traefik资源跨命名空间调用/index.html)
+- [🚨 CVE-2025-10585：Chrome V8 零日漏洞紧急预警](https://www.wjlin0.com/archives/1759564100627)
+- [六年潜伏的&quot;隐形杀手&quot;：OPPO系手机爆出史诗级安全漏洞](https://www.wjlin0.com/archives/cve-2025-10184-security-alert)
+- [🚀 重磅！DeepSeek-V3.2-Exp 来了：API价格狂降50%+，性能再升级！](https://www.wjlin0.com/archives/1759199147073)
+- [Milkyway 扫描工具使用体验](https://www.wjlin0.com/archives/milkyway-scanner-tool-review)
+- [浪浪山小妖怪：于平凡中拥抱真实的自己](https://www.wjlin0.com/archives/1757301620457)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
