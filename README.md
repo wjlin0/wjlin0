@@ -26,11 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [01.2025年能源CTF大赛社会组](https://blog.wjlin0.com/个人知识库/07.CTF/03.各类CTF比赛WP/01.2025年能源CTF大赛社会组/index.html)
-- [更新日志](https://blog.wjlin0.com/更新日志.html)
-- [01.ApiServer](https://blog.wjlin0.com/个人知识库/01.渗透测试/04.内网渗透/02.kubernetes/03.k8s下的各种未授权/01.ApiServer.html)
-- [02.Etc](https://blog.wjlin0.com/个人知识库/01.渗透测试/04.内网渗透/02.kubernetes/03.k8s下的各种未授权/02.Etcd.html)
-- [03.Kubelet](https://blog.wjlin0.com/个人知识库/01.渗透测试/04.内网渗透/02.kubernetes/03.k8s下的各种未授权/03.Kubelet.html)
+- [游戏鼠标竟然能偷听？](https://www.wjlin0.com/archives/1760196478562)
+- [🚨 CVE-2025-10585：Chrome V8 零日漏洞紧急预警](https://www.wjlin0.com/archives/1759564100627)
+- [六年潜伏的&quot;隐形杀手&quot;：OPPO系手机爆出史诗级安全漏洞](https://www.wjlin0.com/archives/cve-2025-10184-security-alert)
+- [🚀 重磅！DeepSeek-V3.2-Exp 来了：API价格狂降50%+，性能再升级！](https://www.wjlin0.com/archives/1759199147073)
+- [Milkyway 扫描工具使用体验](https://www.wjlin0.com/archives/milkyway-scanner-tool-review)
 <!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3> 
